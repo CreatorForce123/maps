@@ -5,7 +5,9 @@
         "version": "rc3",
         "theme": "Spytech, Desert",
         "images": "https://dl.dropboxusercontent.com/s/dtfshy5iwlt3rjt/mvm_area_52_rc3.png",
-        "download": "https://dl.dropboxusercontent.com/s/x473msqgf538rpu/mvm_area_52_rc3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/x473msqgf538rpu/mvm_area_52_rc3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Barren",
@@ -13,7 +15,19 @@
         "version": "final2",
         "theme": "Desert",
         "images": "https://dl.dropboxusercontent.com/s/fsevkr3velkc952/mvm_barren_final2.png",
-        "download": "https://dl.dropboxusercontent.com/s/9qj6m4bd2rfm8nw/mvm_barren_final2.zip"
+        "download": "https://dl.dropboxusercontent.com/s/9qj6m4bd2rfm8nw/mvm_barren_final2.zip",
+        "badges": "",
+        "badges2": ""
+    },
+    {
+        "name": "Boogge",
+        "authors": "Startacker, Dayal",
+        "theme": "Urban, Halloween, Void",
+        "version": "rc3b",
+        "images": "https://dl.dropboxusercontent.com/s/j199x9sm2j4d9it/mvm_boogge_rc3b.png",
+        "download": "https://dl.dropboxusercontent.com/s/1y8nc8ovnerld4h/mvm_boogge_rc3b.zip",
+        "badges": "NEW",
+        "badges2": ""
     },
     {
         "name": "Brugge",
@@ -21,7 +35,9 @@
         "theme": "Urban",
         "version": "rc4b",
         "images": "https://dl.dropboxusercontent.com/s/b1bmr047xixcquh/mvm_brugge_rc4.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/p8x2o3w8lusnc1u/mvm_brugge_rc4.zip"
+        "download": "https://dl.dropboxusercontent.com/s/p8x2o3w8lusnc1u/mvm_brugge_rc4.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Bonk Plant",
@@ -29,7 +45,9 @@
         "theme": "Industrial",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/0yxm7jaub4qcvz7/mvm_bonkplant_rc3.png?dl=0",
-        "download": "https://dl.dropboxusercontent.com/s/2oxrlobw265mecj/mvm_bonk_plant_rc3.zip?dl=0"
+        "download": "https://dl.dropboxusercontent.com/s/2oxrlobw265mecj/mvm_bonk_plant_rc3.zip?dl=0",
+        "badges": "NEW",
+        "badges2": ""
     },
     {
         "name": "Casino City",
@@ -37,7 +55,9 @@
         "theme": "Urban, Desert, Nighttime",
         "version": "b7c",
         "images": "https://dl.dropboxusercontent.com/s/vql1hbgs64lndg2/mvm_casino_city_b6.png",
-        "download": "https://dl.dropboxusercontent.com/s/pvs8clbqh3qu5j7/mvm_casino_city_b7c.zip?"
+        "download": "https://dl.dropboxusercontent.com/s/pvs8clbqh3qu5j7/mvm_casino_city_b7c.zip?",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Coastrock",
@@ -45,7 +65,9 @@
         "theme": "Maritime",
         "version": "rc1_1",
         "images": "https://dl.dropboxusercontent.com/s/7xqe1w0thck5iib/mvm_coastrock_rc1_1.png",
-        "download": "https://dl.dropboxusercontent.com/s/7l9e8b9h6jjgbxv/mvm_coastrock_rc1_1.zip"
+        "download": "https://dl.dropboxusercontent.com/s/7l9e8b9h6jjgbxv/mvm_coastrock_rc1_1.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Cliffside",
@@ -53,7 +75,9 @@
         "theme": "Desert",
         "version": "b5",
         "images": "https://dl.dropboxusercontent.com/s/lx99xi4pzyhepx0/mvm_cliffside_b5.png?dl=0",
-        "download": "https://dl.dropboxusercontent.com/s/8q0xptnzsermphz/mvm_cliffside_b5.zip"
+        "download": "https://dl.dropboxusercontent.com/s/8q0xptnzsermphz/mvm_cliffside_b5.zip",
+        "badges": "NEW",
+        "badges2": ""
     },
     {
         "name": "Condemned",
@@ -61,7 +85,9 @@
         "theme": "Nighttime, Halloween",
         "version": "b3",
         "images": "https://dl.dropboxusercontent.com/s/6o1rb25pm8o69i2/mvm_condemned_b3.png",
-        "download": "https://dl.dropboxusercontent.com/s/63hkq1ouw51983f/mvm_condemned_b3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/63hkq1ouw51983f/mvm_condemned_b3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Cyberia",
@@ -69,7 +95,9 @@
         "theme": "Nighttime, Winter, Industrial",
         "version": "rc6",
         "images": "https://dl.dropboxusercontent.com/s/66w33kkq77pd4bw/mvm_cyberia_rc6.png",
-        "download": "https://dl.dropboxusercontent.com/s/9w68u4wik3x1v7g/mvm_cyberia_rc6.zip"
+        "download": "https://dl.dropboxusercontent.com/s/9w68u4wik3x1v7g/mvm_cyberia_rc6.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Derelict",
@@ -77,7 +105,9 @@
         "theme": "Rainy",
         "version": "rc2",
         "images": "https://dl.dropboxusercontent.com/s/8oguhhd4ehphpdh/mvm_derelict_rc2.png",
-        "download": "https://dl.dropboxusercontent.com/s/mrgg5bloj3azn1x/mvm_derelict_rc2.zip"
+        "download": "https://dl.dropboxusercontent.com/s/mrgg5bloj3azn1x/mvm_derelict_rc2.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Doppler",
@@ -85,7 +115,9 @@
         "theme": "Spytech, Winter",
         "version": "b12",
         "images": "https://dl.dropboxusercontent.com/s/oky22m20s427rdg/mvm_doppler_b12.png",
-        "download": "https://dl.dropboxusercontent.com/s/dnoeoseannccuxr/mvm_doppler_b12.zip"
+        "download": "https://dl.dropboxusercontent.com/s/dnoeoseannccuxr/mvm_doppler_b12.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Dockyard",
@@ -93,7 +125,9 @@
         "theme": "Maritime",
         "version": "rc7",
         "images": "https://dl.dropboxusercontent.com/s/ywlmgf38xm6d0vl/mvm_dockyard_rc6a.png",
-        "download": "https://dl.dropboxusercontent.com/s/26tyew2pdzn3fa4/mvm_dockyard_rc7.zip"
+        "download": "https://dl.dropboxusercontent.com/s/26tyew2pdzn3fa4/mvm_dockyard_rc7.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Downpour",
@@ -101,7 +135,9 @@
         "theme": "Rainy",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/dcjqcy9uklmxf5m/mvm_downpour_rc3.png",
-        "download": "https://dl.dropboxusercontent.com/s/ygmz9muysifrv5g/mvm_downpour_rc3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/ygmz9muysifrv5g/mvm_downpour_rc3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Dusk",
@@ -109,23 +145,29 @@
         "theme": "Desert",
         "version": "rc5",
         "images": "https://dl.dropboxusercontent.com/s/4xkpqb10cjbz7uw/mvm_dusk_rc5.png",
-        "download": "https://dl.dropboxusercontent.com/s/rapnnsck3qxgzql/mvm_dusk_rc5.zip"
+        "download": "https://dl.dropboxusercontent.com/s/rapnnsck3qxgzql/mvm_dusk_rc5.zip",
+        "badges": "NEW",
+        "badges2": ""
     },
     {
         "name": "Estate",
         "authors": "Erk, Sntr",
-        "theme": "Urban, Maritime",
+        "theme": "Urban, Industrial",
         "version": "b9",
         "images": "https://dl.dropboxusercontent.com/s/zar9now0t3211w0/mvm_estate_b9.png",
-        "download": "https://dl.dropboxusercontent.com/s/srvn0ppygwwrxpq/mvm_estate_b9.zip"
+        "download": "https://dl.dropboxusercontent.com/s/srvn0ppygwwrxpq/mvm_estate_b9.zip",
+        "badges": "NEW",
+        "badges2": ""
     },
     {
-        "name": "⚔️ Frostwynd",
+        "name": "Frostwynd",
         "authors": "Signalmax",
-        "theme": "Medieval, Winter",
+        "theme": "Winter",
         "version": "rc1",
         "images": "https://dl.dropboxusercontent.com/s/9dvt966htv7q5zc/mvm_frostwynd_rc1.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/bjqha5f9775rp04/mvm_frostwynd_rc1.zip"
+        "download": "https://dl.dropboxusercontent.com/s/bjqha5f9775rp04/mvm_frostwynd_rc1.zip",
+        "badges": "",
+        "badges2": "MEDIEVAL"
     },
     {
         "name": "Giza",
@@ -133,7 +175,9 @@
         "theme": "Desert",
         "version": "b7",
         "images": "https://dl.dropboxusercontent.com/s/ds5q58hwqhdxmzu/mvm_giza_b7.png",
-        "download": "https://dl.dropboxusercontent.com/s/s9bryl1gq4uz9ux/mvm_giza_b7.zip"
+        "download": "https://dl.dropboxusercontent.com/s/s9bryl1gq4uz9ux/mvm_giza_b7.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Goldpit",
@@ -141,7 +185,9 @@
         "theme": "Desert",
         "version": "b15",
         "images": "https://dl.dropboxusercontent.com/s/vt4bybkgj6sybw8/mvm_goldpit_b13.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/clfltdnq0b6dbms/mvm_goldpit_b15.zip?dl=0"
+        "download": "https://dl.dropboxusercontent.com/s/clfltdnq0b6dbms/mvm_goldpit_b15.zip?dl=0",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Hanami",
@@ -149,7 +195,9 @@
         "theme": "Japan",
         "version": "rc1",
         "images": "https://dl.dropboxusercontent.com/s/m9mcar15fln333e/mvm_hanami_rc1.png",
-        "download": "https://dl.dropboxusercontent.com/s/ok0oikhadqqm19n/mvm_hanami_rc1.zip"
+        "download": "https://dl.dropboxusercontent.com/s/ok0oikhadqqm19n/mvm_hanami_rc1.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Hideout",
@@ -157,15 +205,19 @@
         "theme": "Spytech",
         "version": "b3",
         "images": "https://dl.dropboxusercontent.com/s/zo37f1yzibnfu0k/mvm_hideout_b3.png",
-        "download": "https://dl.dropboxusercontent.com/s/43fffuii6yqo98r/mvm_hideout_b3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/43fffuii6yqo98r/mvm_hideout_b3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
-        "name": "⚔️ Hillside",
+        "name": "Hillside",
         "authors": "Quenquent",
         "theme": "Medieval, Rainy",
         "version": "v7",
         "images": "https://dl.dropboxusercontent.com/s/3x8akfhjg2vgumq/mvm_hillside_v7.png",
-        "download": "https://dl.dropboxusercontent.com/s/8ji21zdw6off44k/mvm_hillside_v7.zip"
+        "download": "https://dl.dropboxusercontent.com/s/8ji21zdw6off44k/mvm_hillside_v7.zip",
+        "badges": "",
+        "badges2": "MEDIEVAL"
     },
     {
         "name": "Isolation",
@@ -173,7 +225,9 @@
         "theme": "Industrial, Winter",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/rvta3eyqsr1na6b/mvm_isolation_rc3.png",
-        "download": "https://dl.dropboxusercontent.com/s/wrsuaropbeszvac/mvm_isolation_rc3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/wrsuaropbeszvac/mvm_isolation_rc3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Kelly",
@@ -181,7 +235,9 @@
         "theme": "Nighttime",
         "version": "rc1b",
         "images": "https://dl.dropboxusercontent.com/s/d1nsif5dlr4j9tk/mvm_kelly_rc1b.png",
-        "download": "https://dl.dropboxusercontent.com/s/qeyjyvz8xu6keyh/mvm_kelly_rc1b.zip"
+        "download": "https://dl.dropboxusercontent.com/s/qeyjyvz8xu6keyh/mvm_kelly_rc1b.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Maple Hill",
@@ -189,7 +245,9 @@
         "theme": "Autumn",
         "version": "rc1",
         "images": "https://dl.dropboxusercontent.com/s/i7wwzjsbknwa2ci/mvm_maplehill_rc1.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/zsr770b93dpicj8/mvm_maplehill_rc1.zip"
+        "download": "https://dl.dropboxusercontent.com/s/zsr770b93dpicj8/mvm_maplehill_rc1.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Meltdown",
@@ -197,7 +255,9 @@
         "theme": "Industrial",
         "version": "rc5",
         "images": "https://dl.dropboxusercontent.com/s/dz9h5g75oav0l17/mvm_meltdown_rc5.png",
-        "download": "https://dl.dropboxusercontent.com/s/0c0bdvcto19oybd/mvm_meltdown_rc5.zip"
+        "download": "https://dl.dropboxusercontent.com/s/0c0bdvcto19oybd/mvm_meltdown_rc5.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Metro",
@@ -205,7 +265,9 @@
         "theme": "Nighttime, Urban",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/7quj6x1vp4m86q4/mvm_metro_rc3.png",
-        "download": "https://dl.dropboxusercontent.com/s/hxe2ege05wewflm/mvm_metro_rc3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/hxe2ege05wewflm/mvm_metro_rc3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Oilrig",
@@ -213,7 +275,9 @@
         "theme": "Maritime, Rainy",
         "version": "rc5",
         "images": "https://dl.dropboxusercontent.com/s/0coxr4s22g0l4fq/mvm_oilrig_rc5.png",
-        "download": "https://dl.dropboxusercontent.com/s/hcrybvldbpwwqk1/mvm_oilrig_rc5.zip"
+        "download": "https://dl.dropboxusercontent.com/s/hcrybvldbpwwqk1/mvm_oilrig_rc5.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Outlands",
@@ -221,7 +285,9 @@
         "theme": "Nighttime",
         "version": "rc2",
         "images": "https://dl.dropboxusercontent.com/s/qgsl3n9upbljdt4/mvm_outlands_rc2.png",
-        "download": "https://dl.dropboxusercontent.com/s/64w26karfe1z3cg/mvm_outlands_rc2.zip"
+        "download": "https://dl.dropboxusercontent.com/s/64w26karfe1z3cg/mvm_outlands_rc2.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Oxidize",
@@ -229,7 +295,9 @@
         "theme": "Summer",
         "version": "rc18",
         "images": "https://dl.dropboxusercontent.com/s/emss46q19197vus/mvm_oxidize.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/fq175tjcqpxwk8j/mvm_oxidize_rc18.zip"
+        "download": "https://dl.dropboxusercontent.com/s/fq175tjcqpxwk8j/mvm_oxidize_rc18.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Powerplant",
@@ -237,7 +305,9 @@
         "theme": "Industrial, Nighttime",
         "version": "rc1",
         "images": "https://dl.dropboxusercontent.com/s/37drriukvrounol/mvm_powerplant_rc1.png",
-        "download": "https://dl.dropboxusercontent.com/s/olfpynp2xhlz91v/mvm_powerplant_rc1.zip"
+        "download": "https://dl.dropboxusercontent.com/s/olfpynp2xhlz91v/mvm_powerplant_rc1.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Production",
@@ -245,7 +315,9 @@
         "theme": "Industrial",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/0su7kkmfv83gvp3/mvm_production_rc6.png",
-        "download": "https://dl.dropboxusercontent.com/s/s565w5bxfm9l9sq/mvm_production_rc6.zip"
+        "download": "https://dl.dropboxusercontent.com/s/s565w5bxfm9l9sq/mvm_production_rc6.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Quetzal",
@@ -253,7 +325,9 @@
         "theme": "Mayann",
         "version": "rc5",
         "images": "https://dl.dropboxusercontent.com/s/9ilp48eesgsh10p/mvm_quetzal_rc5.png",
-        "download": "https://dl.dropboxusercontent.com/s/7x2dgc0bawf8iw4/mvm_quetzal_rc5.zip"
+        "download": "https://dl.dropboxusercontent.com/s/7x2dgc0bawf8iw4/mvm_quetzal_rc5.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Radar",
@@ -261,7 +335,9 @@
         "theme": "Desert",
         "version": "b10",
         "images": "https://dl.dropboxusercontent.com/s/r4y8xjeblsbj6v6/mvm_radar_b10.png",
-        "download": "https://dl.dropboxusercontent.com/s/6xczrvt0tgwzgmi/mvm_radar_b10.zip"
+        "download": "https://dl.dropboxusercontent.com/s/6xczrvt0tgwzgmi/mvm_radar_b10.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Redstone Ridge",
@@ -269,7 +345,9 @@
         "theme": "Industrial",
         "version": "rc5",
         "images": "https://dl.dropboxusercontent.com/s/3tucdsq2dcq1tkg/mvm_redstone_ridge_rc5.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/wddjm7vtwznut5w/mvm_redstone_ridge_rc5.zip"
+        "download": "https://dl.dropboxusercontent.com/s/wddjm7vtwznut5w/mvm_redstone_ridge_rc5.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Rust Valley",
@@ -277,7 +355,9 @@
         "theme": "Desert",
         "version": "rc3a",
         "images": "https://dl.dropboxusercontent.com/s/gql23oa82og56yr/mvm_rustvalley_rc2.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/qeuyr0ka4jafz7z/mvm_rustvalley_rc3a.zip"
+        "download": "https://dl.dropboxusercontent.com/s/qeuyr0ka4jafz7z/mvm_rustvalley_rc3a.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Sequoia",
@@ -285,7 +365,9 @@
         "theme": "Forest",
         "version": "rc4",
         "images": "https://dl.dropboxusercontent.com/s/kukaivelsun4oe7/mvm_sequoia_rc4.png",
-        "download": "https://dl.dropboxusercontent.com/s/rzyukhjznbravow/mvm_sequoia_rc4.zip"
+        "download": "https://dl.dropboxusercontent.com/s/rzyukhjznbravow/mvm_sequoia_rc4.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Sharp",
@@ -293,7 +375,9 @@
         "theme": "Autumn",
         "version": "rc4",
         "images": "https://dl.dropboxusercontent.com/s/wwdli8rvllzuqgh/mvm_sharp_rc4.png",
-        "download": "https://dl.dropboxusercontent.com/s/348e55kekvmqxq5/mvm_sharp_rc4.zip"
+        "download": "https://dl.dropboxusercontent.com/s/348e55kekvmqxq5/mvm_sharp_rc4.zip",
+        "badges": "NEW",
+        "badges2": ""
     },
     {
         "name": "Shiver Peak",
@@ -301,7 +385,9 @@
         "theme": "Winter",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/eg8z3lhdqepbzdj/mvm_shiverpeak_rc2.png",
-        "download": "https://dl.dropboxusercontent.com/s/ouz0u1mol6ev5d2/mvm_shiverpeak_rc3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/ouz0u1mol6ev5d2/mvm_shiverpeak_rc3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Silent Sky",
@@ -309,7 +395,9 @@
         "theme": "Industrial, Winter",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/u09ceb4a8jtwzmu/mvm_silentsky_rc2.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/9u6s9oqv30zwv20/mvm_silentsky_rc3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/9u6s9oqv30zwv20/mvm_silentsky_rc3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Skullcove",
@@ -317,7 +405,9 @@
         "theme": "Nighttime, Halloween",
         "version": "-",
         "images": "https://dl.dropboxusercontent.com/s/za15fbgji6ncrs6/mvm_skullcove.png",
-        "download": "https://dl.dropboxusercontent.com/s/chi0aosa5ypktcw/mvm_skullcove.zip"
+        "download": "https://dl.dropboxusercontent.com/s/chi0aosa5ypktcw/mvm_skullcove.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Snowpine",
@@ -325,7 +415,9 @@
         "theme": "Nighttime, Winter",
         "version": "rc4_fix",
         "images": "https://dl.dropboxusercontent.com/s/1gq7cvuwh2mfe9d/mvm_snowpine_rc4.png",
-        "download": "https://dl.dropboxusercontent.com/s/qr0vqv2x5apoi1c/mvm_snowpine_rc4_fix1.zip"
+        "download": "https://dl.dropboxusercontent.com/s/qr0vqv2x5apoi1c/mvm_snowpine_rc4_fix1.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Spacepost",
@@ -333,7 +425,9 @@
         "theme": "Space",
         "version": "rc1",
         "images": "https://dl.dropboxusercontent.com/s/e2vxh9xl081bca2/mvm_spacepost_rc1.png",
-        "download": "https://dl.dropboxusercontent.com/s/hxcmhq445bm4ycu/mvm_spacepost_rc1.zip"
+        "download": "https://dl.dropboxusercontent.com/s/hxcmhq445bm4ycu/mvm_spacepost_rc1.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Steep",
@@ -341,7 +435,19 @@
         "theme": "Hills",
         "version": "rc3a",
         "images": "https://dl.dropboxusercontent.com/s/kxgufi7tuuegosy/mvm_steep_rc2.png",
-        "download": "https://dl.dropboxusercontent.com/s/ir412ysw61knni0/mvm_steep_rc3a.zip"
+        "download": "https://dl.dropboxusercontent.com/s/ir412ysw61knni0/mvm_steep_rc3a.zip",
+        "badges": "",
+        "badges2": ""
+    },
+    {
+        "name": "Swill",
+        "authors": "Asd417",
+        "theme": "Winter",
+        "version": "b12",
+        "images": "https://dl.dropboxusercontent.com/s/6ekjii5wwuuzpx0/mvm_swirl_b12.png",
+        "download": "https://dl.dropboxusercontent.com/s/k5zv85juad0dve5/mvm_swirl_b12.zip",
+        "badges": "NEW",
+        "badges2": ""
     },
     {
         "name": "Teien",
@@ -349,7 +455,19 @@
         "theme": "Japan",
         "version": "rc6",
         "images": "https://dl.dropboxusercontent.com/s/74i8kvnied1iktw/mvm_teien_rc6.png",
-        "download": "https://dl.dropboxusercontent.com/s/dsl318jq5xuofas/mvm_teien_rc6.zip"
+        "download": "https://dl.dropboxusercontent.com/s/dsl318jq5xuofas/mvm_teien_rc6.zip",
+        "badges": "",
+        "badges2": ""
+    },
+    {
+        "name": "Tensai",
+        "authors": "Dayal",
+        "theme": "Japan",
+        "version": "rc3",
+        "images": "https://dl.dropboxusercontent.com/s/marj80cugubrvzf/mvm_tensai_rc3.png",
+        "download": "https://dl.dropboxusercontent.com/s/8mrpudw8i0a5f3q/mvm_tensai_rc3.zip",
+        "badges": "NEW",
+        "badges2": ""
     },
     {
         "name": "Trainyard",
@@ -357,7 +475,9 @@
         "theme": "Industrial",
         "version": "rc3d",
         "images": "https://dl.dropboxusercontent.com/s/70o4wndfzf3hrzh/mvm_trainyard_rc3d.png",
-        "download": "https://dl.dropboxusercontent.com/s/tb20jtu245ub51o/mvm_trainyard_rc3d.zip"
+        "download": "https://dl.dropboxusercontent.com/s/tb20jtu245ub51o/mvm_trainyard_rc3d.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Transmission",
@@ -365,7 +485,9 @@
         "theme": "Industrial",
         "version": "rc7",
         "images": "https://dl.dropboxusercontent.com/s/ts5zwc1fm23ox5o/mvm_transmission_rc7.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/pdsovmar4baj770/mvm_transmission_rc7.zip"
+        "download": "https://dl.dropboxusercontent.com/s/pdsovmar4baj770/mvm_transmission_rc7.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Underground",
@@ -373,7 +495,9 @@
         "theme": "Industrial",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/q1ndfzjfzsdi7kq/mvm_underground_rc3.png",
-        "download": "https://dl.dropboxusercontent.com/s/muxf7boe6pmg8bi/mvm_underground_rc3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/muxf7boe6pmg8bi/mvm_underground_rc3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Waterfront",
@@ -381,7 +505,9 @@
         "theme": "Maritime",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/4e7c8hiz1a4ab4e/mvm_waterfront_rc3.png",
-        "download": "https://dl.dropboxusercontent.com/s/zc12n5tfuwwc48n/mvm_waterfront_rc3.zip"
+        "download": "https://dl.dropboxusercontent.com/s/zc12n5tfuwwc48n/mvm_waterfront_rc3.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
         "name": "Waterlogged",
@@ -389,15 +515,19 @@
         "theme": "Industrial, Winter",
         "version": "rc5",
         "images": "https://dl.dropboxusercontent.com/s/ibol061g54weqvs/mvm_waterlogged_rc5.png",
-        "download": "https://dl.dropboxusercontent.com/s/4fxh7141ex4fw96/mvm_waterlogged_rc5.zip"
+        "download": "https://dl.dropboxusercontent.com/s/4fxh7141ex4fw96/mvm_waterlogged_rc5.zip",
+        "badges": "",
+        "badges2": ""
     },
     {
-        "name": "⚔️ Winterbridge",
+        "name": "Winterbridge",
         "authors": "Mince",
-        "theme": "Medieval, Nighttime, Winter",
+        "theme": "Nighttime, Winter",
         "version": "rc4c",
         "images": "https://dl.dropboxusercontent.com/s/dq3i1d6rnzsjqt6/mvm_winterbridge_rc4c.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/by4e63ka5fre21u/mvm_winterbridge_rc4c.zip"
+        "download": "https://dl.dropboxusercontent.com/s/by4e63ka5fre21u/mvm_winterbridge_rc4c.zip",
+        "badges": "",
+        "badges2": "MEDIEVAL"
     },
     {
         "name": "Wizardry",
@@ -405,7 +535,19 @@
         "theme": "Medieval, Halloween",
         "version": "-",
         "images": "https://dl.dropboxusercontent.com/s/f72l8mqh0s6ybul/mvm_wizardry.png",
-        "download": "https://dl.dropboxusercontent.com/s/aw0uid0n4jbp01l/mvm_wizardry.zip"
+        "download": "https://dl.dropboxusercontent.com/s/aw0uid0n4jbp01l/mvm_wizardry.zip",
+        "badges": "",
+        "badges2": ""
+    },
+    {
+        "name": "Yiresa",
+        "authors": "PigPig",
+        "theme": "Industrial",
+        "version": "RC2",
+        "images": "https://dl.dropboxusercontent.com/s/pcsh6654jwkyuix/mvm_yiresa_rc2.png",
+        "download": "https://dl.dropboxusercontent.com/s/satl7eliurvpk1t/mvm_yiresa_rc2.zip",
+        "badges": "NEW",
+        "badges2": ""
     },
     {
         "name": "Yucatan",
@@ -413,6 +555,8 @@
         "theme": "Mayann",
         "version": "rc4",
         "images": "https://dl.dropboxusercontent.com/s/tcc01ukt5epj7ix/mvm_yucatan_rc4.png",
-        "download": "https://dl.dropboxusercontent.com/s/220u3818svff9rv/mvm_yucatan_rc4.zip"
+        "download": "https://dl.dropboxusercontent.com/s/220u3818svff9rv/mvm_yucatan_rc4.zip",
+        "badges": "",
+        "badges2": ""
     }
 ]

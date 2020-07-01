@@ -4,7 +4,9 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
         <title>MvM Maps</title>
+        <link rel="icon" href="favicon.png">
 
         <!-- CSS AREA -->
         <style>
@@ -60,9 +62,9 @@
             .btn
             {
                 height: 50px;
-                width: 150px;
+                width: 130px;
                 background-color: #766b53;
-                font: 1.2em TF2-Build;
+                font: 1.1em TF2-Build;
                 border-radius: 15px;
                 margin-top: 15px;
                 color: #ece3cb;
@@ -82,6 +84,16 @@
             body
             {
                 background-color: #2E2A27
+            }
+
+            .badge-info
+            {
+                font: 0.6em TF2-Build;
+            }
+            
+            .badge-warning
+            {
+                font: 0.6em TF2-Build;
             }
 
         </style>
@@ -157,7 +169,8 @@
 				$.each(data, (i, pick) => {
 					let imageRow =	`
 					<tr>
-                        <td id ="tf2font" style="text-align: center;"><b>${pick.name}</b></td> //Name Map
+                        <td id ="tf2font" style="text-align: center; padding-top: 19px;"><b>${pick.name}</b> 
+                        <p><span class="badge badge-info">${pick.badges}</span><span class="badge badge-warning">${pick.badges2}</span></p></td> //Name Map
 
                         <td id ="tf2font" style="text-align: center;">${pick.authors}</td> //Name Authors
 
