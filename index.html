@@ -1,1 +1,177 @@
-<h1>Hello World</h1>
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <title>MvM Maps Lists</title>
+
+        <!-- CSS AREA -->
+        <style>
+            @font-face 
+            {
+                font-family: TF2-Build;
+                src: url(fonts/tf2build.ttf);
+            }
+
+            @font-face 
+            {
+                font-family: TF2-Secondary;
+                src: url(fonts/TF2secondary.ttf);
+            }
+
+            h1
+            {
+                text-align: center;
+                color: white;
+                font: 3.5em TF2-Build;
+            }
+
+            #tf2font
+            {
+                color: white;
+                font: 1.2em TF2-Secondary;
+            }
+
+            .rounded
+            {
+                border-radius: 30px;
+                background: 3px #696353;
+                padding: 20px;
+                width: auto;
+                height: auto;
+                border: 3px solid #9c988d;
+                box-shadow: 5px 15px 8px 5px #0000009d;
+            }
+
+            #down
+            {
+                margin-top: 35px;
+            }
+
+            #gradient-text
+            {
+                background: -webkit-linear-gradient(#bdb49b, #9c988d96);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                
+            }
+
+            .btn
+            {
+                height: 50px;
+                width: 150px;
+                background-color: #766b53;
+                font: 1.2em TF2-Build;
+                border-radius: 15px;
+                margin-top: 15px;
+                color: #ece3cb;
+                padding-top: 14px;
+            }
+
+            .btn:hover
+            {
+                background-color: #924738;
+                color: #b8ad93;
+            }
+
+            .btn:focus {
+            box-shadow: none;
+            }
+
+            body
+            {
+                background-color: #2E2A27
+            }
+
+        </style>
+        </head>
+    
+    <!-- Audio For Button
+    <audio id="click">
+        <source src="sounds/buttonclick.wav" type="audio/wav">
+    </audio>
+    
+    <audio id="hover">
+        <source src="sounds/menu_focus.wav" type="audio/wav">
+    </audio>
+
+    <script>
+        var aud = document.getElementById("click");
+        var hov = document.getElementById("hover");
+        function playClick()
+        {
+            aud.play();
+        }
+        function playHover()
+        {
+            hov.play();
+        }
+
+        $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip();   
+        });
+    </script> -->
+
+    
+    <body>
+        <div class="container" >
+            <div id="down">
+                <div class="rounded">
+                    <div id="gradient-text">
+                        <h1>MvM Custom Maps</h1>
+                    </div>
+                    <div id="down">
+                        
+                        <!-- TABLE AREA -->
+                        <table id="maps" class="display" style="width: 100%;">
+                            <thead>
+                                <tr style="border-bottom: 3px solid white">
+                                    <th id ="tf2font" style="text-align: center;">Map</th>
+                                    <th id ="tf2font" style="text-align: center;">Author(s)</th>
+                                    <th id ="tf2font" style="text-align: center;">Version</th>
+                                    <th id ="tf2font" style="text-align: center;">Theme(s)</th>
+                                    <th id ="tf2font" style="text-align: center;">Screenshot</th>
+                                    <th id ="tf2font" style="text-align: center;">Download</th>
+                                </tr>
+                                <tbody>
+
+                                </tbody>
+                            </thead>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+    <script>
+		let url = `${location.href.substring(0, location.href.lastIndexOf("/") + 1)}`;
+		let urlJSON = `${url}/maps.json`;
+
+		(function () {
+
+			$.getJSON(urlJSON, {
+				format: "json"
+			}).done((data) => {
+				$.each(data, (i, pick) => {
+					let imageRow =	`
+					<tr>
+                        <td id ="tf2font" style="text-align: center;"><b>${pick.name}</b></td> //Name Map
+
+                        <td id ="tf2font" style="text-align: center;">${pick.authors}</td> //Name Authors
+
+                        <td id ="tf2font" style="text-align: center;">${pick.version}</td> //Version
+
+                        <td id ="tf2font" style="text-align: center;">${pick.theme}</td> //Theme
+
+                        <td style="text-align: center;"><a class="btn" target="_blank" href="${pick.images} role="btn"">Preview</a></td> //Screenshot
+
+                        <td style="text-align: center;"><a class="btn" target="_blank" href="${pick.download} role="btn"">Download</a></td> //Download
+					</tr>`;
+					$(imageRow).appendTo($("tbody"));
+				});
+			});
+		})();
+    </script>
+</html>
