@@ -60,16 +60,6 @@
         "badges2": ""
     },
     {
-        "name": "Coastrock",
-        "authors": "Signalmax",
-        "theme": "Maritime",
-        "version": "rc1_1",
-        "images": "https://dl.dropboxusercontent.com/s/7xqe1w0thck5iib/mvm_coastrock_rc1_1.png",
-        "download": "https://dl.dropboxusercontent.com/s/7l9e8b9h6jjgbxv/mvm_coastrock_rc1_1.zip",
-        "badges": "",
-        "badges2": ""
-    },
-    {
         "name": "Cliffside",
         "authors": "LASER ACE",
         "theme": "Desert",
@@ -77,6 +67,16 @@
         "images": "https://dl.dropboxusercontent.com/s/lx99xi4pzyhepx0/mvm_cliffside_b5.png?dl=0",
         "download": "https://dl.dropboxusercontent.com/s/8q0xptnzsermphz/mvm_cliffside_b5.zip",
         "badges": "NEW",
+        "badges2": ""
+    },
+    {
+        "name": "Coastrock",
+        "authors": "Signalmax",
+        "theme": "Maritime",
+        "version": "rc1_1",
+        "images": "https://dl.dropboxusercontent.com/s/7xqe1w0thck5iib/mvm_coastrock_rc1_1.png",
+        "download": "https://dl.dropboxusercontent.com/s/7l9e8b9h6jjgbxv/mvm_coastrock_rc1_1.zip",
+        "badges": "",
         "badges2": ""
     },
     {
@@ -432,7 +432,7 @@
     {
         "name": "Steep",
         "authors": "Idolon",
-        "theme": "Hills",
+        "theme": "Badlands",
         "version": "rc3a",
         "images": "https://dl.dropboxusercontent.com/s/kxgufi7tuuegosy/mvm_steep_rc2.png",
         "download": "https://dl.dropboxusercontent.com/s/ir412ysw61knni0/mvm_steep_rc3a.zip",
