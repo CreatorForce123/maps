@@ -1,5 +1,15 @@
 [
     {
+        "name": "Akure",
+        "authors": "Startacker",
+        "version": "b6",
+        "theme": "Industrial",
+        "images": "https://dl.dropboxusercontent.com/s/c6gsqdq6onb68at/mvm_akure_b6.jpg",
+        "download": "https://dl.dropboxusercontent.com/s/k3bnnn12hwxup0c/mvm_akure_b6.zip",
+        "badges": "NEW",
+        "badges2": ""
+    },
+    {
         "name": "Area 52",
         "authors": "Woozle, Zorbos",
         "version": "rc3",
