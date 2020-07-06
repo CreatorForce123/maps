@@ -20,6 +20,16 @@
         "badges2": ""
     },
     {
+        "name": "Autumnull",
+        "authors": "Startacker",
+        "version": "b1",
+        "theme": "Urban",
+        "images": "https://dl.dropboxusercontent.com/s/kohr28wiou1rqu0/mvm_autumnull_b1.png",
+        "download": "https://dl.dropboxusercontent.com/s/qrhu9y1ymqiitb6/mvm_autumnull_b1.zip",
+        "badges": "NEW",
+        "badges2": ""
+    },
+    {
         "name": "Barren",
         "authors": "Dayal",
         "version": "final2",
