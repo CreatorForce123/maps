@@ -4,8 +4,8 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-        <title>MvM Maps</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>Potato Approved Maps</title>
         <link rel="icon" href="favicon.png">
 
         <!-- CSS AREA -->
@@ -89,11 +89,19 @@
             .badge-info
             {
                 font: 0.6em TF2-Build;
+                text-align: center;
             }
             
             .badge-warning
             {
                 font: 0.6em TF2-Build;
+                text-align: center;
+            }
+
+            .badge-success
+            {
+                font: 0.6em TF2-Build;
+                text-align: center;
             }
 
         </style>
@@ -131,7 +139,7 @@
             <div id="down">
                 <div class="rounded">
                     <div id="gradient-text">
-                        <h1>MvM Custom Maps</h1>
+                        <h1>Potato Approved Maps</h1>
                     </div>
                     <div id="down">
                         
@@ -145,6 +153,7 @@
                                     <th id ="tf2font" style="text-align: center;">Theme(s)</th>
                                     <th id ="tf2font" style="text-align: center;">Screenshot</th>
                                     <th id ="tf2font" style="text-align: center;">Download</th>
+                                    <th id ="tf2font" style="text-align: center;">Information</th>
                                 </tr>
                                 <tbody>
 
@@ -161,6 +170,9 @@
 		let url = `${location.href.substring(0, location.href.lastIndexOf("/") + 1)}`;
 		let urlJSON = `${url}/maps.json`;
 
+        var myObj, j = "";
+        
+
 		(function () {
 
 			$.getJSON(urlJSON, {
@@ -170,7 +182,11 @@
 					let imageRow =	`
 					<tr>
                         <td id ="tf2font" style="text-align: center; padding-top: 19px;"><b>${pick.name}</b> 
-                        <p><span class="badge badge-info">${pick.badges}</span><span class="badge badge-warning">${pick.badges2}</span></p></td> //Name Map
+                        <p>
+                        <span class="badge badge-info">${pick.badges}</span>
+                        <span class="badge badge-warning">${pick.badges2}</span>
+                        <span class="badge badge-success">${pick.badges3}</span>
+                        </p></td> //Name Map
 
                         <td id ="tf2font" style="text-align: center;">${pick.authors}</td> //Name Authors
 
@@ -178,9 +194,11 @@
 
                         <td id ="tf2font" style="text-align: center;">${pick.theme}</td> //Theme
 
-                        <td style="text-align: center;"><a class="btn" target="_blank" href="${pick.images} role="btn"">Preview</a></td> //Screenshot
+                        <td style="text-align: center;"><a class="btn" target="_blank" href="${pick.images}" role="btn">Preview</a></td> //Screenshot
 
-                        <td style="text-align: center;"><a class="btn" target="_blank" href="${pick.download} role="btn"">Download</a></td> //Download
+                        <td style="text-align: center;"><a class="btn" target="_blank" href="${pick.download}" role="btn">Download</a></td> //Download
+
+                        <td style="text-align: center;"><a class="btn" target="_blank" href="${pick.view}" role="btn" style="width: 50px;"><i class="fa fa-info-circle" aria-hidden="true"></i></a></td>
 					</tr>`;
 					$(imageRow).appendTo($("tbody"));
 				});

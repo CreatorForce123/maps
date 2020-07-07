@@ -2,12 +2,14 @@
     {
         "name": "Akure",
         "authors": "Startacker",
-        "version": "b6",
+        "version": "b6_workshop",
         "theme": "Industrial",
         "images": "https://dl.dropboxusercontent.com/s/c6gsqdq6onb68at/mvm_akure_b6.jpg",
-        "download": "https://dl.dropboxusercontent.com/s/k3bnnn12hwxup0c/mvm_akure_b6.zip",
+        "download": "https://tf2maps.net/downloads/akure.9038/download?version=24894",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "UPDATE",
+        "view": "https://tf2maps.net/downloads/akure.9038/"
     },
     {
         "name": "Area 52",
@@ -17,17 +19,21 @@
         "images": "https://dl.dropboxusercontent.com/s/dtfshy5iwlt3rjt/mvm_area_52_rc3.png",
         "download": "https://dl.dropboxusercontent.com/s/x473msqgf538rpu/mvm_area_52_rc3.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/mvm-area-52.698/"
     },
     {
         "name": "Autumnull",
         "authors": "Startacker",
-        "version": "b1",
+        "version": "b1_nav",
         "theme": "Urban",
         "images": "https://dl.dropboxusercontent.com/s/kohr28wiou1rqu0/mvm_autumnull_b1.png",
-        "download": "https://dl.dropboxusercontent.com/s/qrhu9y1ymqiitb6/mvm_autumnull_b1.zip",
+        "download": "https://tf2maps.net/downloads/autumnull.9045/download?version=24926",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "UPDATE",
+        "view": "https://tf2maps.net/downloads/autumnull.9045/"
     },
     {
         "name": "Barren",
@@ -37,7 +43,9 @@
         "images": "https://dl.dropboxusercontent.com/s/fsevkr3velkc952/mvm_barren_final2.png",
         "download": "https://dl.dropboxusercontent.com/s/9qj6m4bd2rfm8nw/mvm_barren_final2.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/mvm-barren.4056/"
     },
     {
         "name": "Boogge",
@@ -47,7 +55,9 @@
         "images": "https://dl.dropboxusercontent.com/s/j199x9sm2j4d9it/mvm_boogge_rc3b.png",
         "download": "https://dl.dropboxusercontent.com/s/1y8nc8ovnerld4h/mvm_boogge_rc3b.zip",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/boogge.40188/"
     },
     {
         "name": "Brugge",
@@ -57,7 +67,9 @@
         "images": "https://dl.dropboxusercontent.com/s/b1bmr047xixcquh/mvm_brugge_rc4.jpg",
         "download": "https://dl.dropboxusercontent.com/s/p8x2o3w8lusnc1u/mvm_brugge_rc4.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/brugge.7506/"
     },
     {
         "name": "Bonk Plant",
@@ -67,7 +79,9 @@
         "images": "https://dl.dropboxusercontent.com/s/0yxm7jaub4qcvz7/mvm_bonkplant_rc3.png?dl=0",
         "download": "https://dl.dropboxusercontent.com/s/2oxrlobw265mecj/mvm_bonk_plant_rc3.zip?dl=0",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/bonk-plant.9379/"
     },
     {
         "name": "Casino City",
@@ -77,7 +91,9 @@
         "images": "https://dl.dropboxusercontent.com/s/vql1hbgs64lndg2/mvm_casino_city_b6.png",
         "download": "https://dl.dropboxusercontent.com/s/pvs8clbqh3qu5j7/mvm_casino_city_b7c.zip?",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/casino-city.6194/"
     },
     {
         "name": "Cliffside",
@@ -87,7 +103,9 @@
         "images": "https://dl.dropboxusercontent.com/s/lx99xi4pzyhepx0/mvm_cliffside_b5.png?dl=0",
         "download": "https://dl.dropboxusercontent.com/s/8q0xptnzsermphz/mvm_cliffside_b5.zip",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=2051915354"
     },
     {
         "name": "Coastrock",
@@ -97,7 +115,9 @@
         "images": "https://dl.dropboxusercontent.com/s/7xqe1w0thck5iib/mvm_coastrock_rc1_1.png",
         "download": "https://dl.dropboxusercontent.com/s/7l9e8b9h6jjgbxv/mvm_coastrock_rc1_1.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=1231287299"
     },
     {
         "name": "Condemned",
@@ -107,7 +127,9 @@
         "images": "https://dl.dropboxusercontent.com/s/6o1rb25pm8o69i2/mvm_condemned_b3.png",
         "download": "https://dl.dropboxusercontent.com/s/63hkq1ouw51983f/mvm_condemned_b3.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/condemned.37571/"
     },
     {
         "name": "Cyberia",
@@ -117,7 +139,9 @@
         "images": "https://dl.dropboxusercontent.com/s/66w33kkq77pd4bw/mvm_cyberia_rc6.png",
         "download": "https://dl.dropboxusercontent.com/s/9w68u4wik3x1v7g/mvm_cyberia_rc6.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/cyberia.7604/"
     },
     {
         "name": "Derelict",
@@ -127,7 +151,9 @@
         "images": "https://dl.dropboxusercontent.com/s/8oguhhd4ehphpdh/mvm_derelict_rc2.png",
         "download": "https://dl.dropboxusercontent.com/s/mrgg5bloj3azn1x/mvm_derelict_rc2.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/derelict.1626/"
     },
     {
         "name": "Doppler",
@@ -137,7 +163,9 @@
         "images": "https://dl.dropboxusercontent.com/s/oky22m20s427rdg/mvm_doppler_b12.png",
         "download": "https://dl.dropboxusercontent.com/s/dnoeoseannccuxr/mvm_doppler_b12.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/doppler.7046/"
     },
     {
         "name": "Dockyard",
@@ -147,7 +175,9 @@
         "images": "https://dl.dropboxusercontent.com/s/ywlmgf38xm6d0vl/mvm_dockyard_rc6a.png",
         "download": "https://dl.dropboxusercontent.com/s/26tyew2pdzn3fa4/mvm_dockyard_rc7.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/dockyard.4105/"
     },
     {
         "name": "Downpour",
@@ -157,7 +187,9 @@
         "images": "https://dl.dropboxusercontent.com/s/dcjqcy9uklmxf5m/mvm_downpour_rc3.png",
         "download": "https://dl.dropboxusercontent.com/s/ygmz9muysifrv5g/mvm_downpour_rc3.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://gamebanana.com/maps/202235"
     },
     {
         "name": "Dusk",
@@ -167,7 +199,9 @@
         "images": "https://dl.dropboxusercontent.com/s/4xkpqb10cjbz7uw/mvm_dusk_rc5.png",
         "download": "https://dl.dropboxusercontent.com/s/rapnnsck3qxgzql/mvm_dusk_rc5.zip",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/dusk.40845/"
     },
     {
         "name": "Estate",
@@ -177,7 +211,9 @@
         "images": "https://dl.dropboxusercontent.com/s/zar9now0t3211w0/mvm_estate_b9.png",
         "download": "https://dl.dropboxusercontent.com/s/srvn0ppygwwrxpq/mvm_estate_b9.zip",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/estate.91/"
     },
     {
         "name": "Frostwynd",
@@ -187,7 +223,9 @@
         "images": "https://dl.dropboxusercontent.com/s/9dvt966htv7q5zc/mvm_frostwynd_rc1.jpg",
         "download": "https://dl.dropboxusercontent.com/s/bjqha5f9775rp04/mvm_frostwynd_rc1.zip",
         "badges": "",
-        "badges2": "MEDIEVAL"
+        "badges2": "MEDIEVAL",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=2093462758"
     },
     {
         "name": "Giza",
@@ -197,7 +235,9 @@
         "images": "https://dl.dropboxusercontent.com/s/ds5q58hwqhdxmzu/mvm_giza_b7.png",
         "download": "https://dl.dropboxusercontent.com/s/s9bryl1gq4uz9ux/mvm_giza_b7.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/giza.22137/"
     },
     {
         "name": "Goldpit",
@@ -207,7 +247,9 @@
         "images": "https://dl.dropboxusercontent.com/s/vt4bybkgj6sybw8/mvm_goldpit_b13.jpg",
         "download": "https://dl.dropboxusercontent.com/s/clfltdnq0b6dbms/mvm_goldpit_b15.zip?dl=0",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/goldpit.37840/"
     },
     {
         "name": "Hanami",
@@ -217,7 +259,12 @@
         "images": "https://dl.dropboxusercontent.com/s/m9mcar15fln333e/mvm_hanami_rc1.png",
         "download": "https://dl.dropboxusercontent.com/s/ok0oikhadqqm19n/mvm_hanami_rc1.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": 
+        {
+            "empty": "No Info!"
+        }
     },
     {
         "name": "Hideout",
@@ -227,7 +274,9 @@
         "images": "https://dl.dropboxusercontent.com/s/zo37f1yzibnfu0k/mvm_hideout_b3.png",
         "download": "https://dl.dropboxusercontent.com/s/43fffuii6yqo98r/mvm_hideout_b3.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/hideout.36220/"
     },
     {
         "name": "Hillside",
@@ -237,7 +286,9 @@
         "images": "https://dl.dropboxusercontent.com/s/3x8akfhjg2vgumq/mvm_hillside_v7.png",
         "download": "https://dl.dropboxusercontent.com/s/8ji21zdw6off44k/mvm_hillside_v7.zip",
         "badges": "",
-        "badges2": "MEDIEVAL"
+        "badges2": "MEDIEVAL",
+        "badges3": "",
+        "view": "https://gamebanana.com/maps/183925"
     },
     {
         "name": "Isolation",
@@ -247,7 +298,9 @@
         "images": "https://dl.dropboxusercontent.com/s/rvta3eyqsr1na6b/mvm_isolation_rc3.png",
         "download": "https://dl.dropboxusercontent.com/s/wrsuaropbeszvac/mvm_isolation_rc3.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/isolation.20645/"
     },
     {
         "name": "Kelly",
@@ -257,7 +310,9 @@
         "images": "https://dl.dropboxusercontent.com/s/d1nsif5dlr4j9tk/mvm_kelly_rc1b.png",
         "download": "https://dl.dropboxusercontent.com/s/qeyjyvz8xu6keyh/mvm_kelly_rc1b.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/kelly.3982/"
     },
     {
         "name": "Maple Hill",
@@ -267,7 +322,9 @@
         "images": "https://dl.dropboxusercontent.com/s/i7wwzjsbknwa2ci/mvm_maplehill_rc1.jpg",
         "download": "https://dl.dropboxusercontent.com/s/zsr770b93dpicj8/mvm_maplehill_rc1.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=2133601462"
     },
     {
         "name": "Meltdown",
@@ -277,7 +334,9 @@
         "images": "https://dl.dropboxusercontent.com/s/dz9h5g75oav0l17/mvm_meltdown_rc5.png",
         "download": "https://dl.dropboxusercontent.com/s/0c0bdvcto19oybd/mvm_meltdown_rc5.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=546248385"
     },
     {
         "name": "Metro",
@@ -287,7 +346,9 @@
         "images": "https://dl.dropboxusercontent.com/s/7quj6x1vp4m86q4/mvm_metro_rc3.png",
         "download": "https://dl.dropboxusercontent.com/s/hxe2ege05wewflm/mvm_metro_rc3.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=792857459"
     },
     {
         "name": "Oilrig",
@@ -297,7 +358,9 @@
         "images": "https://dl.dropboxusercontent.com/s/0coxr4s22g0l4fq/mvm_oilrig_rc5.png",
         "download": "https://dl.dropboxusercontent.com/s/hcrybvldbpwwqk1/mvm_oilrig_rc5.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/oilrig.20911/"
     },
     {
         "name": "Outlands",
@@ -307,7 +370,9 @@
         "images": "https://dl.dropboxusercontent.com/s/qgsl3n9upbljdt4/mvm_outlands_rc2.png",
         "download": "https://dl.dropboxusercontent.com/s/64w26karfe1z3cg/mvm_outlands_rc2.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://gamebanana.com/maps/203405"
     },
     {
         "name": "Oxidize",
@@ -317,7 +382,9 @@
         "images": "https://dl.dropboxusercontent.com/s/emss46q19197vus/mvm_oxidize.jpg",
         "download": "https://dl.dropboxusercontent.com/s/fq175tjcqpxwk8j/mvm_oxidize_rc18.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/oxidize.36305/"
     },
     {
         "name": "Powerplant",
@@ -327,7 +394,9 @@
         "images": "https://dl.dropboxusercontent.com/s/37drriukvrounol/mvm_powerplant_rc1.png",
         "download": "https://dl.dropboxusercontent.com/s/olfpynp2xhlz91v/mvm_powerplant_rc1.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=580052046"
     },
     {
         "name": "Production",
@@ -335,9 +404,11 @@
         "theme": "Industrial",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/0su7kkmfv83gvp3/mvm_production_rc6.png",
-        "download": "https://dl.dropboxusercontent.com/s/s565w5bxfm9l9sq/mvm_production_rc6.zip",
+        "download": "https://tf2maps.net/downloads/production.7729/download?version=22064",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/production.39112/"
     },
     {
         "name": "Quetzal",
@@ -347,7 +418,9 @@
         "images": "https://dl.dropboxusercontent.com/s/9ilp48eesgsh10p/mvm_quetzal_rc5.png",
         "download": "https://dl.dropboxusercontent.com/s/7x2dgc0bawf8iw4/mvm_quetzal_rc5.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/quetzal.35707/"
     },
     {
         "name": "Radar",
@@ -357,7 +430,9 @@
         "images": "https://dl.dropboxusercontent.com/s/r4y8xjeblsbj6v6/mvm_radar_b10.png",
         "download": "https://dl.dropboxusercontent.com/s/6xczrvt0tgwzgmi/mvm_radar_b10.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=1540982257"
     },
     {
         "name": "Redstone Ridge",
@@ -367,7 +442,9 @@
         "images": "https://dl.dropboxusercontent.com/s/3tucdsq2dcq1tkg/mvm_redstone_ridge_rc5.jpg",
         "download": "https://dl.dropboxusercontent.com/s/wddjm7vtwznut5w/mvm_redstone_ridge_rc5.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/redstone-ridge.40377/"
     },
     {
         "name": "Rust Valley",
@@ -377,7 +454,9 @@
         "images": "https://dl.dropboxusercontent.com/s/gql23oa82og56yr/mvm_rustvalley_rc2.jpg",
         "download": "https://dl.dropboxusercontent.com/s/qeuyr0ka4jafz7z/mvm_rustvalley_rc3a.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/rust-valley.38956/"
     },
     {
         "name": "Sequoia",
@@ -387,7 +466,9 @@
         "images": "https://dl.dropboxusercontent.com/s/kukaivelsun4oe7/mvm_sequoia_rc4.png",
         "download": "https://dl.dropboxusercontent.com/s/rzyukhjznbravow/mvm_sequoia_rc4.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/sequoia.32867/"
     },
     {
         "name": "Sharp",
@@ -397,7 +478,9 @@
         "images": "https://dl.dropboxusercontent.com/s/wwdli8rvllzuqgh/mvm_sharp_rc4.png",
         "download": "https://dl.dropboxusercontent.com/s/348e55kekvmqxq5/mvm_sharp_rc4.zip",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/sharp.8553/"
     },
     {
         "name": "Shiver Peak",
@@ -407,7 +490,9 @@
         "images": "https://dl.dropboxusercontent.com/s/eg8z3lhdqepbzdj/mvm_shiverpeak_rc2.png",
         "download": "https://dl.dropboxusercontent.com/s/ouz0u1mol6ev5d2/mvm_shiverpeak_rc3.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/shiver-peak.36269/"
     },
     {
         "name": "Silent Sky",
@@ -417,7 +502,9 @@
         "images": "https://dl.dropboxusercontent.com/s/u09ceb4a8jtwzmu/mvm_silentsky_rc2.jpg",
         "download": "https://dl.dropboxusercontent.com/s/9u6s9oqv30zwv20/mvm_silentsky_rc3.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=1858986178"
     },
     {
         "name": "Skullcove",
@@ -427,7 +514,9 @@
         "images": "https://dl.dropboxusercontent.com/s/za15fbgji6ncrs6/mvm_skullcove.png",
         "download": "https://dl.dropboxusercontent.com/s/chi0aosa5ypktcw/mvm_skullcove.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/skullcove.21356/"
     },
     {
         "name": "Snowpine",
@@ -437,7 +526,9 @@
         "images": "https://dl.dropboxusercontent.com/s/1gq7cvuwh2mfe9d/mvm_snowpine_rc4.png",
         "download": "https://dl.dropboxusercontent.com/s/qr0vqv2x5apoi1c/mvm_snowpine_rc4_fix1.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=1699389870"
     },
     {
         "name": "Spacepost",
@@ -447,7 +538,9 @@
         "images": "https://dl.dropboxusercontent.com/s/e2vxh9xl081bca2/mvm_spacepost_rc1.png",
         "download": "https://dl.dropboxusercontent.com/s/hxcmhq445bm4ycu/mvm_spacepost_rc1.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/spacepost.32770/"
     },
     {
         "name": "Steep",
@@ -457,7 +550,9 @@
         "images": "https://dl.dropboxusercontent.com/s/kxgufi7tuuegosy/mvm_steep_rc2.png",
         "download": "https://dl.dropboxusercontent.com/s/ir412ysw61knni0/mvm_steep_rc3a.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/steep.32625/"
     },
     {
         "name": "Swirl",
@@ -467,7 +562,9 @@
         "images": "https://dl.dropboxusercontent.com/s/6ekjii5wwuuzpx0/mvm_swirl_b12.png",
         "download": "https://tf2maps.net/downloads/mvm_swirl.8913/download?version=24767",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/mvm_swirl.8913/"
     },
     {
         "name": "Teien",
@@ -475,9 +572,11 @@
         "theme": "Japan",
         "version": "rc6",
         "images": "https://dl.dropboxusercontent.com/s/74i8kvnied1iktw/mvm_teien_rc6.png",
-        "download": "https://dl.dropboxusercontent.com/s/dsl318jq5xuofas/mvm_teien_rc6.zip",
+        "download": "https://tf2maps.net/downloads/teien.4023/download?version=16757",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/teien.32582/"
     },
     {
         "name": "Tensai",
@@ -487,7 +586,9 @@
         "images": "https://dl.dropboxusercontent.com/s/marj80cugubrvzf/mvm_tensai_rc3.png",
         "download": "https://dl.dropboxusercontent.com/s/8mrpudw8i0a5f3q/mvm_tensai_rc3.zip",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=1905568880"
     },
     {
         "name": "Trainyard",
@@ -497,7 +598,9 @@
         "images": "https://dl.dropboxusercontent.com/s/70o4wndfzf3hrzh/mvm_trainyard_rc3d.png",
         "download": "https://dl.dropboxusercontent.com/s/tb20jtu245ub51o/mvm_trainyard_rc3d.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/trainyard.28080/"
     },
     {
         "name": "Transmission",
@@ -507,7 +610,9 @@
         "images": "https://dl.dropboxusercontent.com/s/ts5zwc1fm23ox5o/mvm_transmission_rc7.jpg",
         "download": "https://dl.dropboxusercontent.com/s/pdsovmar4baj770/mvm_transmission_rc7.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=1998386410"
     },
     {
         "name": "Underground",
@@ -515,9 +620,11 @@
         "theme": "Industrial",
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/q1ndfzjfzsdi7kq/mvm_underground_rc3.png",
-        "download": "https://dl.dropboxusercontent.com/s/muxf7boe6pmg8bi/mvm_underground_rc3.zip",
+        "download": "https://tf2maps.net/downloads/underground.621/download?version=2814",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/underground.22511/"
     },
     {
         "name": "Waterfront",
@@ -527,7 +634,9 @@
         "images": "https://dl.dropboxusercontent.com/s/4e7c8hiz1a4ab4e/mvm_waterfront_rc3.png",
         "download": "https://dl.dropboxusercontent.com/s/zc12n5tfuwwc48n/mvm_waterfront_rc3.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=947749085"
     },
     {
         "name": "Waterlogged",
@@ -537,7 +646,9 @@
         "images": "https://dl.dropboxusercontent.com/s/ibol061g54weqvs/mvm_waterlogged_rc5.png",
         "download": "https://dl.dropboxusercontent.com/s/4fxh7141ex4fw96/mvm_waterlogged_rc5.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=2141860433"
     },
     {
         "name": "Winterbridge",
@@ -547,7 +658,9 @@
         "images": "https://dl.dropboxusercontent.com/s/dq3i1d6rnzsjqt6/mvm_winterbridge_rc4c.jpg",
         "download": "https://dl.dropboxusercontent.com/s/by4e63ka5fre21u/mvm_winterbridge_rc4c.zip",
         "badges": "",
-        "badges2": "MEDIEVAL"
+        "badges2": "MEDIEVAL",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=1757111677"
     },
     {
         "name": "Wizardry",
@@ -555,9 +668,11 @@
         "theme": "Medieval, Halloween",
         "version": "-",
         "images": "https://dl.dropboxusercontent.com/s/f72l8mqh0s6ybul/mvm_wizardry.png",
-        "download": "https://dl.dropboxusercontent.com/s/aw0uid0n4jbp01l/mvm_wizardry.zip",
+        "download": "https://dl.dropboxusercontent.com/s/abiz47x6xiqciec/mvm_wizardry.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://steamcommunity.com/sharedfiles/filedetails/?id=512767158"
     },
     {
         "name": "Yiresa",
@@ -565,9 +680,11 @@
         "theme": "Industrial",
         "version": "RC2",
         "images": "https://dl.dropboxusercontent.com/s/pcsh6654jwkyuix/mvm_yiresa_rc2.png",
-        "download": "https://dl.dropboxusercontent.com/s/satl7eliurvpk1t/mvm_yiresa_rc2.zip",
+        "download": "https://tf2maps.net/downloads/mvm_yiresa.9436/download?version=24420",
         "badges": "NEW",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/downloads/mvm_yiresa.9436/"
     },
     {
         "name": "Yucatan",
@@ -577,6 +694,8 @@
         "images": "https://dl.dropboxusercontent.com/s/tcc01ukt5epj7ix/mvm_yucatan_rc4.png",
         "download": "https://dl.dropboxusercontent.com/s/220u3818svff9rv/mvm_yucatan_rc4.zip",
         "badges": "",
-        "badges2": ""
+        "badges2": "",
+        "badges3": "",
+        "view": "https://tf2maps.net/threads/mvm_yucatan.25932/"
     }
 ]
