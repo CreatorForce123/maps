@@ -51,14 +51,6 @@
                 margin-top: 35px;
             }
 
-            #gradient-text
-            {
-                background: -webkit-linear-gradient(#bdb49b, #9c988d96);
-                -webkit-background-clip: text;
-                -webkit-text-fill-color: transparent;
-                
-            }
-
             .btn
             {
                 height: 50px;
@@ -104,6 +96,21 @@
                 text-align: center;
             }
 
+            .gradient-text img{
+                float: left;
+                width: 96px;
+                margin-left: 130px;
+            }
+
+            .gradient-text h1{
+                position: relative;
+                top: 18px;
+                left: -70px;
+                background: -webkit-linear-gradient(#bdb49b, #9c988d96);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+            }
+
         </style>
         </head>
     
@@ -138,7 +145,8 @@
         <div class="container" >
             <div id="down">
                 <div class="rounded">
-                    <div id="gradient-text">
+                    <div class="gradient-text">
+                        <img src="logo.png" alt="logo">
                         <h1>Potato Approved Maps</h1>
                     </div>
                     <div id="down">
