@@ -2,11 +2,11 @@
     {
         "name": "Akure",
         "authors": "Startacker",
-        "version": "b7",
+        "version": "b9",
         "theme": "Industrial",
         "images": "https://dl.dropboxusercontent.com/s/c6gsqdq6onb68at/mvm_akure_b6.jpg",
         "download": "https://tf2maps.net/downloads/akure.9038/",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
         "badges3": "UPDATE"
     },
@@ -24,11 +24,11 @@
     {
         "name": "Autumnull",
         "authors": "Startacker",
-        "version": "rc1d",
+        "version": "rc2",
         "theme": "Urban",
         "images": "https://dl.dropboxusercontent.com/s/k722t3c6s1pocel/mvm_autumnull_rc1d.jpg?dl=0",
         "download": "https://tf2maps.net/downloads/autumnull.9045/",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
         "badges3": "UPDATE"
     },
@@ -72,7 +72,7 @@
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/0yxm7jaub4qcvz7/mvm_bonkplant_rc3.png?dl=0",
         "download": "https://tf2maps.net/downloads/bonk-plant.9379/",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
         "badges3": ""
     },
@@ -91,12 +91,12 @@
         "name": "Cliffside",
         "authors": "LASER ACE",
         "theme": "Desert",
-        "version": "b5",
+        "version": "b6",
         "images": "https://dl.dropboxusercontent.com/s/lx99xi4pzyhepx0/mvm_cliffside_b5.png?dl=0",
-        "download": "https://www.dropbox.com/s/8q0xptnzsermphz/mvm_cliffside_b5.zip?dl=0",
-        "badges": "NEW",
+        "download": "https://www.dropbox.com/s/xeok0qzd977p7e2/mvm_cliffside_b6.zip?dl=0",
+        "badges": "",
         "badges2": "",
-        "badges3": ""
+        "badges3": "UPDATE"
     },
     {
         "name": "Coastrock",
@@ -179,12 +179,12 @@
         "name": "Dusk",
         "authors": "Smrekish, Rafradek",
         "theme": "Desert",
-        "version": "rc5",
+        "version": "rc6",
         "images": "https://dl.dropboxusercontent.com/s/4xkpqb10cjbz7uw/mvm_dusk_rc5.png",
         "download": "https://www.dropbox.com/s/b118pqeuqxua3oy/mvm_dusk_rc6.zip?dl=0",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
-        "badges3": ""
+        "badges3": "UPDATE"
     },
     {
         "name": "Estate",
@@ -193,7 +193,7 @@
         "version": "b9",
         "images": "https://dl.dropboxusercontent.com/s/zar9now0t3211w0/mvm_estate_b9.png",
         "download": "https://tf2maps.net/downloads/estate.91/",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
         "badges3": ""
     },
@@ -223,7 +223,7 @@
         "name": "Goldpit",
         "authors": "Asd417",
         "theme": "Desert",
-        "version": "b15",
+        "version": "rc1",
         "images": "https://dl.dropboxusercontent.com/s/vt4bybkgj6sybw8/mvm_goldpit_b13.jpg",
         "download": "https://tf2maps.net/threads/goldpit.37840/",
         "badges": "",
@@ -432,12 +432,12 @@
         "name": "Sharp",
         "authors": "dexc34, Waugh101",
         "theme": "Autumn",
-        "version": "rc4",
+        "version": "rc6",
         "images": "https://dl.dropboxusercontent.com/s/wwdli8rvllzuqgh/mvm_sharp_rc4.png",
         "download": "https://tf2maps.net/downloads/sharp.8553/",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
-        "badges3": ""
+        "badges3": "UPDATE"
     },
     {
         "name": "Shiver Peak",
@@ -512,7 +512,7 @@
         "name": "Swirl",
         "authors": "Asd417",
         "theme": "Winter",
-        "version": "b12",
+        "version": "b14",
         "images": "https://dl.dropboxusercontent.com/s/6ekjii5wwuuzpx0/mvm_swirl_b12.png",
         "download": "https://tf2maps.net/downloads/mvm_swirl.8913/",
         "badges": "NEW",
@@ -600,7 +600,7 @@
         "name": "Winterbridge",
         "authors": "Mince",
         "theme": "Nighttime, Winter",
-        "version": "rc4c",
+        "version": "rc5",
         "images": "https://dl.dropboxusercontent.com/s/dq3i1d6rnzsjqt6/mvm_winterbridge_rc4c.jpg",
         "download": "https://drive.google.com/file/d/1m5QnbD66b9E9UDjUsWzTV0IiyvZzS_YH/view",
         "badges": "",
@@ -622,9 +622,9 @@
         "name": "Yiresa",
         "authors": "PigPig",
         "theme": "Industrial",
-        "version": "rc2",
+        "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/pcsh6654jwkyuix/mvm_yiresa_rc2.png",
-        "download": "https://tf2maps.net/downloads/mvm_yiresa.9436/",
+        "download": "https://www.dropbox.com/s/uhaylyltrxd1lz4/mvm_yiresa_rc3.zip?dl=0",
         "badges": "NEW",
         "badges2": "",
         "badges3": ""
