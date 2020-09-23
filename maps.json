@@ -2,9 +2,9 @@
     {
         "name": "Akure",
         "authors": "Startacker",
-        "version": "b9",
+        "version": "b9a",
         "theme": "Industrial",
-        "images": "https://dl.dropboxusercontent.com/s/c6gsqdq6onb68at/mvm_akure_b6.jpg",
+        "images": "https://dl.dropboxusercontent.com/s/5qokvj1x0ybros5/mvm_akure_b9a.png",
         "download": "https://tf2maps.net/downloads/akure.9038/",
         "badges": "",
         "badges2": "",
@@ -26,11 +26,11 @@
         "authors": "Startacker",
         "version": "rc2",
         "theme": "Urban",
-        "images": "https://dl.dropboxusercontent.com/s/k722t3c6s1pocel/mvm_autumnull_rc1d.jpg?dl=0",
+        "images": "https://dl.dropboxusercontent.com/s/unhm5lb3qoap78h/mvm_autumnull_rc2.png",
         "download": "https://tf2maps.net/downloads/autumnull.9045/",
         "badges": "",
         "badges2": "",
-        "badges3": "UPDATE"
+        "badges3": ""
     },
     {
         "name": "Barren",
@@ -48,11 +48,11 @@
         "authors": "Startacker, Dayal",
         "theme": "Urban, Halloween, Void",
         "version": "rc3c",
-        "images": "https://dl.dropboxusercontent.com/s/j199x9sm2j4d9it/mvm_boogge_rc3b.png",
+        "images": "https://dl.dropboxusercontent.com/s/va67bbtr2mdkepn/mvm_boogge_rc3c.png",
         "download": "https://tf2maps.net/threads/boogge.40188/",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
-        "badges3": "UPDATE"
+        "badges3": ""
     },
     {
         "name": "Brugge",
@@ -88,15 +88,26 @@
         "badges3": ""
     },
     {
+        "name": "Chopper",
+        "authors": "RC Polygon",
+        "theme": "Rainy, Industrial",
+        "version": "rc1d",
+        "images": "https://dl.dropboxusercontent.com/s/w3p1e9zil4x56w3/mvm_chopper_rc1d.png",
+        "download": "https://drive.google.com/file/d/1aktldBsduJwccJPumr4hqJMe8V6V-Apc/view",
+        "badges": "NEW",
+        "badges2": "",
+        "badges3": ""
+    },
+    {
         "name": "Cliffside",
         "authors": "LASER ACE",
         "theme": "Desert",
         "version": "b6",
-        "images": "https://dl.dropboxusercontent.com/s/lx99xi4pzyhepx0/mvm_cliffside_b5.png?dl=0",
+        "images": "https://dl.dropboxusercontent.com/s/201g6c4y9plhmon/mvm_cliffside_b6%20.png",
         "download": "https://www.dropbox.com/s/xeok0qzd977p7e2/mvm_cliffside_b6.zip?dl=0",
         "badges": "",
         "badges2": "",
-        "badges3": "UPDATE"
+        "badges3": ""
     },
     {
         "name": "Coastrock",
@@ -180,11 +191,11 @@
         "authors": "Smrekish, Rafradek",
         "theme": "Desert",
         "version": "rc6",
-        "images": "https://dl.dropboxusercontent.com/s/4xkpqb10cjbz7uw/mvm_dusk_rc5.png",
+        "images": "https://dl.dropboxusercontent.com/s/dpmk37xd13s978r/dusk.jpg",
         "download": "https://www.dropbox.com/s/b118pqeuqxua3oy/mvm_dusk_rc6.zip?dl=0",
         "badges": "",
         "badges2": "",
-        "badges3": "UPDATE"
+        "badges3": ""
     },
     {
         "name": "Estate",
@@ -213,7 +224,7 @@
         "authors": "Alias, E-Arkham",
         "theme": "Desert",
         "version": "b7",
-        "images": "https://dl.dropboxusercontent.com/s/ds5q58hwqhdxmzu/mvm_giza_b7.png",
+        "images": "https://dl.dropboxusercontent.com/s/j1ltcbita508mvk/giza.jpg",
         "download": "https://tf2maps.net/threads/giza.22137/",
         "badges": "",
         "badges2": "",
@@ -237,6 +248,17 @@
         "version": "rc1",
         "images": "https://dl.dropboxusercontent.com/s/m9mcar15fln333e/mvm_hanami_rc1.png",
         "download": "https://www.dropbox.com/s/ok0oikhadqqm19n/mvm_hanami_rc1.zip?dl=0",
+        "badges": "",
+        "badges2": "",
+        "badges3": ""
+    },
+    {
+        "name": "Hoovydam",
+        "authors": "Blade x64",
+        "theme": "Dam",
+        "version": "b8",
+        "images": "https://dl.dropboxusercontent.com/s/79f1mwu5nq73bhr/mvm_hoovydam_b8.jpg",
+        "download": "https://tf2maps.net/downloads/hoovy-dam.8899/",
         "badges": "",
         "badges2": "",
         "badges3": ""
@@ -279,7 +301,7 @@
         "authors": "Mikroscopic",
         "theme": "Nighttime",
         "version": "rc1b",
-        "images": "https://dl.dropboxusercontent.com/s/d1nsif5dlr4j9tk/mvm_kelly_rc1b.png",
+        "images": "https://dl.dropboxusercontent.com/s/g8hos14jv344r5c/kelly.jpg",
         "download": "https://tf2maps.net/downloads/kelly.3982/",
         "badges": "",
         "badges2": "",
@@ -366,8 +388,8 @@
         "name": "Production",
         "authors": "Sandwhip",
         "theme": "Industrial",
-        "version": "rc3",
-        "images": "https://dl.dropboxusercontent.com/s/0su7kkmfv83gvp3/mvm_production_rc6.png",
+        "version": "rc6",
+        "images": "https://dl.dropboxusercontent.com/s/yrkiydpdz5lg8y0/mvm_production_rc6.png",
         "download": "https://tf2maps.net/threads/production.39112/",
         "badges": "",
         "badges2": "",
@@ -432,8 +454,8 @@
         "name": "Sharp",
         "authors": "dexc34, Waugh101",
         "theme": "Autumn",
-        "version": "rc6",
-        "images": "https://dl.dropboxusercontent.com/s/wwdli8rvllzuqgh/mvm_sharp_rc4.png",
+        "version": "rc6a",
+        "images": "https://dl.dropboxusercontent.com/s/241xtxxwrncqp1o/mvm_sharp_rc6a.jpg",
         "download": "https://tf2maps.net/downloads/sharp.8553/",
         "badges": "",
         "badges2": "",
@@ -454,12 +476,12 @@
         "name": "Silent Sky",
         "authors": "PenolAkushari, EOSL",
         "theme": "Industrial, Winter",
-        "version": "rc3",
+        "version": "rc4",
         "images": "https://dl.dropboxusercontent.com/s/u09ceb4a8jtwzmu/mvm_silentsky_rc2.jpg",
-        "download": "https://www.dropbox.com/s/9u6s9oqv30zwv20/mvm_silentsky_rc3.zip?dl=0",
+        "download": "https://www.dropbox.com/sh/gqcmvr4799hsxzn/AACBiR9ulU07V8Q9C0IXG6vPa?dl=0",
         "badges": "",
         "badges2": "",
-        "badges3": ""
+        "badges3": "UPDATE"
     },
     {
         "name": "Skullcove",
@@ -477,7 +499,7 @@
         "name": "Snowpine",
         "authors": "UltimentM, Gian",
         "theme": "Nighttime, Winter",
-        "version": "rc4_fix",
+        "version": "rc4",
         "images": "https://dl.dropboxusercontent.com/s/1gq7cvuwh2mfe9d/mvm_snowpine_rc4.png",
         "download": "https://dl.dropboxusercontent.com/s/qr0vqv2x5apoi1c/mvm_snowpine_rc4_fix1.zip",
         "badges": "",
@@ -512,12 +534,12 @@
         "name": "Swirl",
         "authors": "Asd417",
         "theme": "Winter",
-        "version": "b14",
-        "images": "https://dl.dropboxusercontent.com/s/6ekjii5wwuuzpx0/mvm_swirl_b12.png",
+        "version": "rc1",
+        "images": "https://dl.dropboxusercontent.com/s/ptjh76xjm4978nv/mvm_swirl_rc1.jpg",
         "download": "https://tf2maps.net/downloads/mvm_swirl.8913/",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
-        "badges3": ""
+        "badges3": "UPDATE"
     },
     {
         "name": "Teien",
@@ -535,9 +557,9 @@
         "authors": "Dayal",
         "theme": "Japan",
         "version": "rc3",
-        "images": "https://dl.dropboxusercontent.com/s/marj80cugubrvzf/mvm_tensai_rc3.png",
+        "images": "https://dl.dropboxusercontent.com/s/25chucamxgv27gk/tensai.jpg",
         "download": "https://www.dropbox.com/s/8mrpudw8i0a5f3q/mvm_tensai_rc3.zip?dl=0",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
         "badges3": ""
     },
@@ -561,7 +583,7 @@
         "download": "https://www.dropbox.com/s/bswhvut0axdlqg4/Transmission.zip?dl=0",
         "badges": "",
         "badges2": "",
-        "badges3": "UPDATE"
+        "badges3": ""
     },
     {
         "name": "Underground",
@@ -602,7 +624,7 @@
         "theme": "Nighttime, Winter",
         "version": "rc5",
         "images": "https://dl.dropboxusercontent.com/s/dq3i1d6rnzsjqt6/mvm_winterbridge_rc4c.jpg",
-        "download": "https://drive.google.com/file/d/1m5QnbD66b9E9UDjUsWzTV0IiyvZzS_YH/view",
+        "download": "https://www.dropbox.com/s/lcp1n12o88yrejb/mvm_winterbridge_rc5.zip?dl=0",
         "badges": "",
         "badges2": "MEDIEVAL",
         "badges3": ""
@@ -625,7 +647,7 @@
         "version": "rc3",
         "images": "https://dl.dropboxusercontent.com/s/pcsh6654jwkyuix/mvm_yiresa_rc2.png",
         "download": "https://www.dropbox.com/s/uhaylyltrxd1lz4/mvm_yiresa_rc3.zip?dl=0",
-        "badges": "NEW",
+        "badges": "",
         "badges2": "",
         "badges3": ""
     },
@@ -634,7 +656,7 @@
         "authors": "Snowbat",
         "theme": "Mayann",
         "version": "rc4",
-        "images": "https://dl.dropboxusercontent.com/s/tcc01ukt5epj7ix/mvm_yucatan_rc4.png",
+        "images": "https://dl.dropboxusercontent.com/s/yvf5lfc12yxkxkq/yucatan.jpg",
         "download": "https://tf2maps.net/threads/mvm_yucatan.25932/",
         "badges": "",
         "badges2": "",
